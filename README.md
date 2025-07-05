@@ -1,5 +1,15 @@
 
-![Build   Deploy Erasor io Clone Using Next Js   React with Typescript](https://github.com/rrs301/erasor_clone/assets/20216436/4dfdc7cf-3b26-43ca-bcb0-7afcb19c190a)
+Real-Time Collaborative Whiteboard (2025)
+
+Developed a cloud-native, interactive whiteboard enabling seamless real-time collaboration for teams. Built with React for a responsive frontend and Node.js + WebSockets for live multi-user editing (e.g., drawing, text, shapes), with sub-50ms latency. Orchestrated using Kubernetes for auto-scaling during peak loads and deployed as Docker containers for portability. Implemented a robust CI/CD pipeline with GitHub Actions and ArgoCD for GitOps-driven rollouts, ensuring zero-downtime updates.
+
+```bash
+Key Features:
+✔ Live Multi-User Editing: Instant sync via WebSockets, with conflict resolution.
+✔ Cloud-Native Scalability: Kubernetes-managed pods handle 10k+ concurrent users.
+✔ DevOps Automation: End-to-end CI/CD with automated testing, Docker builds, and ArgoCD deployments.
+✔ Persistent Boards: Optional MongoDB integration for saving/loading sessions.
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
