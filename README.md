@@ -1,5 +1,5 @@
 
-Real-Time Collaborative Whiteboard (2025)
+Real-Time Collaborative Whiteboard (2025)!
 
 Developed a cloud-native, interactive whiteboard enabling seamless real-time collaboration for teams. Built with React for a responsive frontend and Node.js + WebSockets for live multi-user editing (e.g., drawing, text, shapes), with sub-50ms latency. Orchestrated using Kubernetes for auto-scaling during peak loads and deployed as Docker containers for portability. Implemented a robust CI/CD pipeline with GitHub Actions and ArgoCD for GitOps-driven rollouts, ensuring zero-downtime updates.
 
