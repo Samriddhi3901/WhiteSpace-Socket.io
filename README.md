@@ -324,27 +324,6 @@ npm run test:load
 - **Throughput**: 100,000+ messages/second
 - **Uptime**: 99.9% availability with proper setup
 
-## 🤝 Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md).
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋‍♀️ Support
-
-- 📧 Email: support@whitespace.dev
-- 💬 Discord: [Join our community](https://discord.gg/whitespace)
-- 🐛 Issues: [GitHub Issues](https://github.com/Samriddhi3901/WhiteSpace-Socket.io/issues)
-- 📖 Docs: [Documentation Site](https://docs.whitespace.dev)
-
 ## 🌟 Acknowledgments
 
 - [Socket.io](https://socket.io/) - Real-time communication
@@ -352,10 +331,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Kubernetes](https://kubernetes.io/) - Container orchestration
 - [MongoDB](https://mongodb.com/) - Database solution
 
----
-
-<div align="center">
-  <strong>Built with ❤️ for seamless collaboration</strong>
-  
   [⭐ Star this repo](https://github.com/Samriddhi3901/WhiteSpace-Socket.io) | [🚀 Try it live](https://whitespace.dev) | [📖 Documentation](https://docs.whitespace.dev)
 </div>
