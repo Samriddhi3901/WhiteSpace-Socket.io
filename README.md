@@ -1,4 +1,4 @@
-# 🎨 WhiteSpace - Real-Time Collaborative Whiteboard!...
+# 🎨 WhiteSpace - Real-Time Collaborative Whiteboard!
 
 
 <div align="center">
