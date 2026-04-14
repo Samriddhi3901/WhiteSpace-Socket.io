@@ -15,7 +15,6 @@
 ----
 
 ## 🚀 Overview
-
 WhiteSpace is a cutting-edge real-time collaborative whiteboard application built for modern teams. With sub-50ms latency and support for 10,000+ concurrent users, it delivers seamless multi-user editing experiences with advanced drawing tools, real-time synchronization, and enterprise-grade scalability.
 
 **Perfect for remote teams, educators, designers, and anyone who needs to collaborate visually in real-time.**
